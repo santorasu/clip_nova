@@ -94,4 +94,4 @@ output/N_title.mp4
 
 ## License
 
-MIT
+Md. Rashedul Islam
